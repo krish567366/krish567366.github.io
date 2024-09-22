@@ -40,7 +40,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Krishna Bajpai <Link to="/">mldangelo.com</Link>.
+        &copy; Krishna Bajpai <Link to="/">krishnabajpai.com</Link>.
       </p>
     </section>
   </section>
